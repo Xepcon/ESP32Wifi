@@ -1,0 +1,4 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.sourceDirectory": "D:/arduino/ESP32Wifi/.pio/libdeps/nodemcu-32s/ArduinoJson"
+}
